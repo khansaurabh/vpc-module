@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# IDE directories
+.vscode/
+
+# OS files
+.DS_Store
+
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Backup files
+*.bak
